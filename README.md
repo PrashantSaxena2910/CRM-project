@@ -124,9 +124,9 @@ curl -X GET http://localhost:8000/api/customers/ \
 ## Project Structure
 
 ```
-django_crm/
+curddrf/
 ├── manage.py
-├── crm_project/
+├── curddrf/
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
